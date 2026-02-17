@@ -34,4 +34,4 @@ Antes de instalar (si lo quieres clonar), asegúrate de tener:
 
 ## ⚡️ Autor
 
-Desarrollado por: Luis
+Desarrollado por: LuisGetz (@iamluisgetz)
